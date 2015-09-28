@@ -28,7 +28,7 @@
         "selectedState": "Included",
         "dependsOn": [],
         "topLevel": true,
-        "cordovaVersion": ">=3.0.0",
+        "cordovaVersion": ">=4.0.0",
         "permissions": {},
         "description": "Cordova StatusBar Plugin",
         "data": {},
